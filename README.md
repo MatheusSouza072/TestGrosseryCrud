@@ -50,4 +50,4 @@ Após isso basta apenas executar a classe CadastroTest.java
 
 Você poderá visualizar o relatório dos testes no seguinte caminho:
 
-> \provasicredi_\src\test\resources\HtmlReport
+> \\src\test\resources\HtmlReport
